@@ -14,3 +14,32 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the Oxlint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+# DevConnect
+
+DevConnect is a developer collaboration platform landing page built using React.
+
+## Features
+- Responsive navigation
+- Dark and light theme
+- Hero section
+- Developer features section
+- GitHub projects integration
+- Testimonials and pricing sections
+- Contact form with frontend validation
+
+## Tech Stack
+- React.js
+- JavaScript
+- CSS
+- Vite
+- GitHub API
+- Lucide React
+
+## Run Locally
+
+npm install
+npm run dev
+
+## Build
+
+npm run build
